@@ -1,2 +1,2 @@
 # Naive-Bayes
-Implementation of Naive Bayes theorm ( MATLAB ) on the Iris dataset
+Implementation of Naive Bayes theorem ( MATLAB ) on the Iris dataset
