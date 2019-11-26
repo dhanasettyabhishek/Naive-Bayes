@@ -1,4 +1,4 @@
-%{ Team Members: Sreekanth Tangudu, Sai Krishna Chaitanya Mittapalli, Abhishek Dashinsetty}
+%{ Team Members: Sreekanth Tangudu, Sai Krishna Chaitanya Mittapalli, Abhishek Dhanasetty}
 
 iris = [51	35	14	2	1
 49	3	14	2	1
